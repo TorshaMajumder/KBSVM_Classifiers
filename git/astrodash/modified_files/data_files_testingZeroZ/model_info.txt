@@ -1,0 +1,14 @@
+Date Time: 2021-11-19 03:22:34
+Directory: /Users/june/git/astrodash/modified_files/data_files_testingZeroZ/
+Add Host: False
+SN-Host fractions: [0.99, 0.98, 0.95, 0.93, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1]
+Classify Host: False
+Redshift: Zero
+Redshift Range: 0.0 to 0.0
+Num of Redshifts: 1
+Redshift During Training: False
+Fraction of Training Set Used: 0.8
+Training Amount: 50 x 2000000
+Changed wavelength range to 3500 to 10000A
+Set outer region to 0.5
+Using 2 convolutional layers in neural network
